@@ -25,7 +25,21 @@ The following guides illustrate how to use some features concretely:
 
 
 # Examples
-* Default Landing Page: http://localhost:8080/
-* Default Error Landing Page: http://localhost:8080/doesnotexist
-* Actuator Endpoints: http://localhost:8080/actuator
+* Default Landing Page: 
+```
+http://localhost:8080/
+```
+* Default Error Landing Page:
+```
+http://localhost:8080/doesnotexist
+```
+* Actuator Endpoints:
+```
+http://localhost:8080/actuator
+```
+* Swagger UI
+```
+http://localhost:8080/context-path/v3/api-docs
+http://localhost:8080/context-path/swagger-ui.html
+
 
