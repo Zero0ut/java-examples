@@ -24,6 +24,24 @@ The following guides illustrate how to use some features concretely:
 * [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
 
 
+### Docker Commands
+
+#Build Docker image file
+docker build -t swagger-open-api . 
+# Check Docker Images
+docker images
+# Deploy image to Docker
+docker run -p 8080:8080 -t swagger-open-api
+# Check running container and its status
+docker ps -a
+# Stop Docker container
+docker stop [CONTAINER ID]
+
+Reference: 
+https://docs.docker.com/engine/reference/run/
+https://dzone.com/articles/deploying-spring-boot-microservice-to-docker-a-qui
+
+
 # Examples
 * Default Landing Page: 
 ```
