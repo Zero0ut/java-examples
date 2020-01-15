@@ -1,0 +1,21 @@
+
+
+ActivitiExplorer
+https://dzone.com/articles/tutorial-devoxx-activiti-bpmn
+
+Camunda Server:
+https://camunda.com/download/
+
+Get Started with Camunda
+https://docs.camunda.org/manual/7.10/user-guide/process-applications/maven-archetypes/
+https://www.youtube.com/watch?v=HxtZf5VD6lQ
+
+
+Spring Boot + Activiti Example
+https://www.websparrow.org/spring/spring-boot-activiti-example
+
+Spring Bean from a BPMN 2.0 Service Task.
+https://docs.camunda.org/get-started/spring-boot/model/
+
+Simple Example
+https://github.com/camunda/camunda-get-started-spring-boot
